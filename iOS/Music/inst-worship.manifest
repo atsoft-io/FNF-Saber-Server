@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1168680502
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fcd4450392fea84a398e6f3dc084169
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ConvertAudio/Inst-worship.mp3
+Dependencies: []

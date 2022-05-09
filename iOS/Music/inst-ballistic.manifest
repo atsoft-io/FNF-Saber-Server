@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1255448217
+CRC: 3711294679
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 171b99aa42c6086f221488db9c717f52
+    Hash: dead382783410e7b6ea96b328a8fe98a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Sound Bundle/Whitty/Inst-ballistic.mp3
+- Assets/ConvertAudio/Inst-ballistic.mp3
 Dependencies: []

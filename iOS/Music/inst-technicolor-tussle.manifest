@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 893117844
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: de6f500a965e86025b21a581563630e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ConvertAudio/Inst-technicolor-tussle.mp3
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2795398798
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 61899d1cdeaa46d139a276b449893821
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ConvertAudio/Inst-mommytime.mp3
+Dependencies: []

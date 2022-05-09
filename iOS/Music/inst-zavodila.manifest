@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4045411785
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bcb347e32c6a7a888eaea3248aed720
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ConvertAudio/Inst-zavodila.mp3
+Dependencies: []

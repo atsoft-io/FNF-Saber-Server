@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 4044614848
+CRC: 4249908557
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4a87eebc9b5ccbd17701eae9119bf3cb
+    Hash: 9a7d0582055ac878b4ec644f043fa135
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundleUnBuild/Sounds/Inst-ugh.mp3
+- Assets/ConvertAudio/Inst-ugh.mp3
 Dependencies: []

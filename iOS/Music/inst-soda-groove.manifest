@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 4046412855
+CRC: 63142000
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 833f8db1ebc29b45b593649ed8ee7cda
+    Hash: 8ecb25973382c31adbc6f19a69df0e00
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Sound Bundle/Cassette/Inst-soda-groove.mp3
+- Assets/ConvertAudio/Inst-soda-groove.mp3
 Dependencies: []

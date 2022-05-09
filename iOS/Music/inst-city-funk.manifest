@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1288613862
+CRC: 2239103097
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 087da3d63eaafd40aa8485d07b98594b
+    Hash: 7821a2969d2bee9c3cbe553cefcd5061
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Sound Bundle/Cassette/Inst-city-funk.mp3
+- Assets/ConvertAudio/Inst-city-funk.mp3
 Dependencies: []

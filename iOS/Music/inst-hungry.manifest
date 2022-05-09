@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 3501295445
+CRC: 429741145
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1da38f7e9068b84f605c0ede39ce23cf
+    Hash: c4b10bbeea56bc4aa681c37c0a6a53ff
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundleUnBuild/Sounds/Inst-hungry.mp3
+- Assets/ConvertAudio/Inst-hungry.mp3
 Dependencies: []

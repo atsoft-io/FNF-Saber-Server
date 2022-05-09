@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 2813786416
+CRC: 740868886
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a99758f27416ac1a1502c2cb77e44f56
+    Hash: c143a34823c10c0b98cb7dba4f5baad0
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundleUnBuild/Sounds/Inst-on-my-way.mp3
+- Assets/ConvertAudio/Inst-on-my-way.mp3
 Dependencies: []

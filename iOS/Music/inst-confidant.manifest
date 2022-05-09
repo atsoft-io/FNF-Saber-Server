@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1780389204
+CRC: 3068091735
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7cfcd86f863abbd139e97b137b832ab3
+    Hash: 90369745e8361fa42b93882a5f1d5c45
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundleUnBuild/Sounds/Inst-confidant.mp3
+- Assets/ConvertAudio/Inst-confidant.mp3
 Dependencies: []

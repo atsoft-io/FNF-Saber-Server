@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 4107271970
+CRC: 1983004402
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f9ca4ceb5be794ca34bb61e5ae0c3bdc
+    Hash: 6851008ebc4f0695355e705c743d7c93
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundleUnBuild/Sounds/Inst-faucet.mp3
+- Assets/ConvertAudio/Inst-faucet.mp3
 Dependencies: []

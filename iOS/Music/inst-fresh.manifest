@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1934654512
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcd6f556dff21d67c32c578bfa41fbfa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ConvertAudio/Inst-fresh.mp3
+Dependencies: []

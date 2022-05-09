@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3758088580
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e79406a93972c8cef0a8b0c422a6e9fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ConvertAudio/Inst-tutorial.mp3
+Dependencies: []

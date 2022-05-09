@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 214528185
+CRC: 3831764551
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cd2e3a2455339cdfc691ca27400bf556
+    Hash: 2ab1ebe0277c737ffbe5aa4737a7a0e5
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundleUnBuild/Sounds/Inst-guns.mp3
+- Assets/ConvertAudio/Inst-guns.mp3
 Dependencies: []

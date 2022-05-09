@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 500747994
+CRC: 882463861
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4e88b74b2971c768a32f08262b3afe7c
+    Hash: 13bf9def215ee248a4d65d59e20f0940
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Sound Bundle/Entity/Inst-shotgun-shell.mp3
+- Assets/ConvertAudio/Inst-shotgun-shell.mp3
 Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3014093364
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cbab47def5c61f6bf02e040e933fd11b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ConvertAudio/Inst-deadly-obsession.mp3
+Dependencies: []

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 730522290
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 939d5f9fc2a1e46f5aae70dabb86aa57
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ConvertAudio/Inst-red-flag.mp3
+Dependencies: []

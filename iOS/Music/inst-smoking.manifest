@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 59173012
+CRC: 549277154
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 37b12d6412e691d5d0859ec587f54b1b
+    Hash: d35c09b3ea6ef8ef169cf470630bb596
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Sound Bundle/Cassette/Inst-smoking.mp3
+- Assets/ConvertAudio/Inst-smoking.mp3
 Dependencies: []

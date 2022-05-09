@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 4043712794
+CRC: 2062493413
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 26ea16c04efb0f2914f9e37f4057eed6
+    Hash: 289956cf54f58218fad9603f0f1fde09
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Sound Bundle/RUV/Inst_parish.mp3
+- Assets/ConvertAudio/Inst-kidz-bop.mp3
 Dependencies: []

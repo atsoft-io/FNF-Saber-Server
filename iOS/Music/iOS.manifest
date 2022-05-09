@@ -1,10 +1,16 @@
 ManifestFileVersion: 0
-CRC: 2636574659
+CRC: 2195830464
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: inst-playtime
+      Name: inst-worship
       Dependencies: {}
     Info_1:
-      Name: inst-kissy_playtime
+      Name: inst-zavodila
+      Dependencies: {}
+    Info_2:
+      Name: inst-parish
+      Dependencies: {}
+    Info_3:
+      Name: inst-gospel
       Dependencies: {}

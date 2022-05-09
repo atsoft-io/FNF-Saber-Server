@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1971830504
+CRC: 1164375543
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b93f7e6458666330c14cc8f7000242ed
+    Hash: 7171948d7e3b805cf43e912a1a403747
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Sound Bundle/Wuggy/Inst-playground.mp3
+- Assets/ConvertAudio/Inst-playground.mp3
 Dependencies: []

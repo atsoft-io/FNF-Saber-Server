@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1392315305
+CRC: 3572478050
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 677faa99047e364ee6380deac8b129a9
+    Hash: 086d334c33ecf6ec16a4e3eeaffe7fcb
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Sound Bundle/RUV/Inst_zavodila.mp3
+- Assets/ConvertAudio/Inst-bopeebo.mp3
 Dependencies: []

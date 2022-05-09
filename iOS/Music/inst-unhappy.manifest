@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 2304191438
+CRC: 2678901277
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: eeab5b60fbb0a9d2be6e1831c216beee
+    Hash: 000341002707176bb7c244ba7cdb56c7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Sound Bundle/Sunday Night Mouse/Inst-unhappy.mp3
+- Assets/ConvertAudio/Inst-unhappy.mp3
 Dependencies: []

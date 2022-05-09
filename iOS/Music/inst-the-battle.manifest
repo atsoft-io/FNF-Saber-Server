@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 1095060313
+CRC: 1988658861
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2cbc2e1302698c85ae5f59a501d9d7c6
+    Hash: d895d2e751d51388208fb98a567535f1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundleUnBuild/Sounds/Inst-the-battle.mp3
+- Assets/ConvertAudio/Inst-the-battle.mp3
 Dependencies: []

@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 3163544979
+CRC: 878580656
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 19e74a9aa4c81a296f3824015e1475ad
+    Hash: 158161811818974c25e119af78dc40df
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundleUnBuild/Sounds/Inst-awesome-store.mp3
+- Assets/ConvertAudio/Inst-awesome-store.mp3
 Dependencies: []

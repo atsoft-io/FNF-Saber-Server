@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2346242014
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 74f438dd3f7e80b1270e5be33a1a9f37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ConvertAudio/Inst-whoopee.mp3
+Dependencies: []

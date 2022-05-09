@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3132172921
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 84bb72a8f2becd25e54121621a902e58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ConvertAudio/Inst-snake-eyes.mp3
+Dependencies: []

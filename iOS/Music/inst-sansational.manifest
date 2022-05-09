@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2661826552
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0dc17220080ca8da11c9dc868ef710c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ConvertAudio/Inst-sansational.mp3
+Dependencies: []

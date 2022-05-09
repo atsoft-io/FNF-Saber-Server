@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 718511507
+CRC: 625808168
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 66efaa0ab2a4cf6f6e831e4911d81195
+    Hash: 45f4099f81d3a0c49d51e5aca79fc762
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Sound Bundle/RUV/Inst_gospel.mp3
+- Assets/ConvertAudio/Inst-meltdown.mp3
 Dependencies: []

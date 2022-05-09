@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 314027073
+CRC: 1975575200
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5bdd3e9a6fe00918bee2fffba2702d10
+    Hash: 4196d45edf11a168e90e05e237119bcc
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Sound Bundle/Crimson Carnival/Inst-maniacal.mp3
+- Assets/ConvertAudio/Inst-maniacal.mp3
 Dependencies: []

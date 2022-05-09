@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 2839569656
+CRC: 2542540092
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1bef98a7bd3624ad63deda0d8752fd88
+    Hash: 7b2685cc780661e9cc639632c0e1b44e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundleUnBuild/Sounds/Inst-satin-panties.mp3
+- Assets/ConvertAudio/Inst-satin-panties.mp3
 Dependencies: []

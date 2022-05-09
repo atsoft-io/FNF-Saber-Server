@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 4143365365
+CRC: 2545154557
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 986f947e60d4c36a8d919b1b967a5e32
+    Hash: 15299ae54f017bda61932b1ebd98b1f2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundleUnBuild/Sounds/Inst-low-rise.mp3
+- Assets/ConvertAudio/Inst-low-rise.mp3
 Dependencies: []

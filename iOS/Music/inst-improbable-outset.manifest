@@ -1,17 +1,17 @@
 ManifestFileVersion: 0
-CRC: 2918316860
+CRC: 876740154
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 39deac8096d9a8d4ae5510d059b75cfb
+    Hash: c3509da95e5ea440b31bbc88f42223b1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
 HashAppended: 0
 ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Sound Bundle/Tricky/Inst-improbable-outset.mp3
+- Assets/ConvertAudio/Inst-improbable-outset.mp3
 Dependencies: []
