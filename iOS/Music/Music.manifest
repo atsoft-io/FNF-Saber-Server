@@ -1,0 +1,349 @@
+ManifestFileVersion: 0
+CRC: 4012460921
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: inst-alone
+      Dependencies: {}
+    Info_1:
+      Name: inst-apparition
+      Dependencies: {}
+    Info_2:
+      Name: inst-awesome-store
+      Dependencies: {}
+    Info_3:
+      Name: inst-baby-blue
+      Dependencies: {}
+    Info_4:
+      Name: inst-backhand
+      Dependencies: {}
+    Info_5:
+      Name: inst-ballistic
+      Dependencies: {}
+    Info_6:
+      Name: inst-best-friends
+      Dependencies: {}
+    Info_7:
+      Name: inst-blammed
+      Dependencies: {}
+    Info_8:
+      Name: inst-blooming-phantoms
+      Dependencies: {}
+    Info_9:
+      Name: inst-bopeebo
+      Dependencies: {}
+    Info_10:
+      Name: inst-city-funk
+      Dependencies: {}
+    Info_11:
+      Name: inst-cloud
+      Dependencies: {}
+    Info_12:
+      Name: inst-cocoa
+      Dependencies: {}
+    Info_13:
+      Name: inst-confidant
+      Dependencies: {}
+    Info_14:
+      Name: inst-dadbattle
+      Dependencies: {}
+    Info_15:
+      Name: inst-dark-secrets
+      Dependencies: {}
+    Info_16:
+      Name: inst-deadly-obsession
+      Dependencies: {}
+    Info_17:
+      Name: inst-dip
+      Dependencies: {}
+    Info_18:
+      Name: inst-discovery-glitch
+      Dependencies: {}
+    Info_19:
+      Name: inst-discovery
+      Dependencies: {}
+    Info_20:
+      Name: inst-dusk-till-dawn
+      Dependencies: {}
+    Info_21:
+      Name: inst-earworm
+      Dependencies: {}
+    Info_22:
+      Name: inst-eggnog
+      Dependencies: {}
+    Info_23:
+      Name: inst-fading
+      Dependencies: {}
+    Info_24:
+      Name: inst-faker
+      Dependencies: {}
+    Info_25:
+      Name: inst-faucet
+      Dependencies: {}
+    Info_26:
+      Name: inst-fired
+      Dependencies: {}
+    Info_27:
+      Name: inst-first-to-go
+      Dependencies: {}
+    Info_28:
+      Name: inst-fresh
+      Dependencies: {}
+    Info_29:
+      Name: inst-godrays
+      Dependencies: {}
+    Info_30:
+      Name: inst-golden-land
+      Dependencies: {}
+    Info_31:
+      Name: inst-gospel
+      Dependencies: {}
+    Info_32:
+      Name: inst-guns
+      Dependencies: {}
+    Info_33:
+      Name: inst-happy
+      Dependencies: {}
+    Info_34:
+      Name: inst-headache
+      Dependencies: {}
+    Info_35:
+      Name: inst-hellclown
+      Dependencies: {}
+    Info_36:
+      Name: inst-hgu
+      Dependencies: {}
+    Info_37:
+      Name: inst-high
+      Dependencies: {}
+    Info_38:
+      Name: inst-hug-me
+      Dependencies: {}
+    Info_39:
+      Name: inst-hungry
+      Dependencies: {}
+    Info_40:
+      Name: inst-i-hate-you
+      Dependencies: {}
+    Info_41:
+      Name: inst-improbable-outset
+      Dependencies: {}
+    Info_42:
+      Name: inst-its-a-me
+      Dependencies: {}
+    Info_43:
+      Name: inst-kidz-bop
+      Dependencies: {}
+    Info_44:
+      Name: inst-kissy
+      Dependencies: {}
+    Info_45:
+      Name: inst-kissy_playtime
+      Dependencies: {}
+    Info_46:
+      Name: inst-let-us-in
+      Dependencies: {}
+    Info_47:
+      Name: inst-lo-fight
+      Dependencies: {}
+    Info_48:
+      Name: inst-lovey
+      Dependencies: {}
+    Info_49:
+      Name: inst-low-rise
+      Dependencies: {}
+    Info_50:
+      Name: inst-machina
+      Dependencies: {}
+    Info_51:
+      Name: inst-madness
+      Dependencies: {}
+    Info_52:
+      Name: inst-maniacal
+      Dependencies: {}
+    Info_53:
+      Name: inst-meltdown
+      Dependencies: {}
+    Info_54:
+      Name: inst-milf
+      Dependencies: {}
+    Info_55:
+      Name: inst-mommytime
+      Dependencies: {}
+    Info_56:
+      Name: inst-monster
+      Dependencies: {}
+    Info_57:
+      Name: inst-nap-time
+      Dependencies: {}
+    Info_58:
+      Name: inst-nerves
+      Dependencies: {}
+    Info_59:
+      Name: inst-no-bullies
+      Dependencies: {}
+    Info_60:
+      Name: inst-on-my-way
+      Dependencies: {}
+    Info_61:
+      Name: inst-out-of-water
+      Dependencies: {}
+    Info_62:
+      Name: inst-overhead
+      Dependencies: {}
+    Info_63:
+      Name: inst-parasite
+      Dependencies: {}
+    Info_64:
+      Name: inst-parish
+      Dependencies: {}
+    Info_65:
+      Name: inst-philly
+      Dependencies: {}
+    Info_66:
+      Name: inst-pico
+      Dependencies: {}
+    Info_67:
+      Name: inst-play
+      Dependencies: {}
+    Info_68:
+      Name: inst-playground
+      Dependencies: {}
+    Info_69:
+      Name: inst-playtime
+      Dependencies: {}
+    Info_70:
+      Name: inst-powerdown
+      Dependencies: {}
+    Info_71:
+      Name: inst-promenade
+      Dependencies: {}
+    Info_72:
+      Name: inst-psychic
+      Dependencies: {}
+    Info_73:
+      Name: inst-rain
+      Dependencies: {}
+    Info_74:
+      Name: inst-really-happy
+      Dependencies: {}
+    Info_75:
+      Name: inst-red-flag
+      Dependencies: {}
+    Info_76:
+      Name: inst-release
+      Dependencies: {}
+    Info_77:
+      Name: inst-roses
+      Dependencies: {}
+    Info_78:
+      Name: inst-rsetss
+      Dependencies: {}
+    Info_79:
+      Name: inst-sabotage
+      Dependencies: {}
+    Info_80:
+      Name: inst-sansational
+      Dependencies: {}
+    Info_81:
+      Name: inst-satanic-funkin
+      Dependencies: {}
+    Info_82:
+      Name: inst-satin-panties
+      Dependencies: {}
+    Info_83:
+      Name: inst-senpai
+      Dependencies: {}
+    Info_84:
+      Name: inst-shotgun-shell
+      Dependencies: {}
+    Info_85:
+      Name: inst-shut-the-door
+      Dependencies: {}
+    Info_86:
+      Name: inst-slaughter
+      Dependencies: {}
+    Info_87:
+      Name: inst-smile
+      Dependencies: {}
+    Info_88:
+      Name: inst-smoking
+      Dependencies: {}
+    Info_89:
+      Name: inst-snake-eyes
+      Dependencies: {}
+    Info_90:
+      Name: inst-soda-groove
+      Dependencies: {}
+    Info_91:
+      Name: inst-south
+      Dependencies: {}
+    Info_92:
+      Name: inst-special-guest
+      Dependencies: {}
+    Info_93:
+      Name: inst-spookeez
+      Dependencies: {}
+    Info_94:
+      Name: inst-stress
+      Dependencies: {}
+    Info_95:
+      Name: inst-sussus-moogus
+      Dependencies: {}
+    Info_96:
+      Name: inst-technicolor-tussle
+      Dependencies: {}
+    Info_97:
+      Name: inst-terrible-sin
+      Dependencies: {}
+    Info_98:
+      Name: inst-terrorizing
+      Dependencies: {}
+    Info_99:
+      Name: inst-the-battle
+      Dependencies: {}
+    Info_100:
+      Name: inst-the-rapper
+      Dependencies: {}
+    Info_101:
+      Name: inst-the-stranger
+      Dependencies: {}
+    Info_102:
+      Name: inst-thorns
+      Dependencies: {}
+    Info_103:
+      Name: inst-tutorial
+      Dependencies: {}
+    Info_104:
+      Name: inst-ugh
+      Dependencies: {}
+    Info_105:
+      Name: inst-ugsn
+      Dependencies: {}
+    Info_106:
+      Name: inst-ukiyo
+      Dependencies: {}
+    Info_107:
+      Name: inst-underground
+      Dependencies: {}
+    Info_108:
+      Name: inst-unhappy
+      Dependencies: {}
+    Info_109:
+      Name: inst-uproar
+      Dependencies: {}
+    Info_110:
+      Name: inst-whoopee
+      Dependencies: {}
+    Info_111:
+      Name: inst-wilter
+      Dependencies: {}
+    Info_112:
+      Name: inst-winter-horrorland
+      Dependencies: {}
+    Info_113:
+      Name: inst-worship
+      Dependencies: {}
+    Info_114:
+      Name: inst-zavodila
+      Dependencies: {}
