@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3498730083
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d629d514da22138b28f5eaf9a0fe4170
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/FNF Saber/Resources/Music/Inst-tutorial.mp3
+Dependencies: []
