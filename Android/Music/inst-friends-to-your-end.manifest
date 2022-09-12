@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3586852177
+CRC: 3880014312
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d6cc52730e4282c04384d345dec8c482
+    Hash: b3c9a4194bd3c73c0a9d9d5515445a68
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
@@ -13,5 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/_Project/Sprites/Characters/Bunzo/Inst-Friends-To-Your-End.ogg
+- Assets/FNF Saber/Resources/Music/Inst-Friends-To-Your-End.mp3
 Dependencies: []
