@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2833174242
+CRC: 692341535
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 76b01c91234681ae9c2ee950c3195809
+    Hash: f6a85b5c3de495349bdd63285006322a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
@@ -13,6 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/FNF Saber/Resources/AssetPath/Backgrounds/Inst-eternal-funk.mp3
-- Assets/FNF Saber/Resources/AssetPath/Backgrounds/Inst-lets-hug.mp3
+- Assets/_Project/Sprites/UI/New Ui/Inst-lets-hug.mp3
 Dependencies: []

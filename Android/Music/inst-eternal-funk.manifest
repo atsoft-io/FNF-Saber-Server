@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2911207307
+CRC: 2274363053
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8ab0a6e2736f5c44346e75ab641e0574
+    Hash: 947596fd69706ce937c5b814ef9f34e8
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9a2ca7bdbd1871f7131daf57de908e0c
@@ -13,5 +13,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/FNF Saber/Resources/AssetPath/Backgrounds/Inst-eternal-funk.mp3
+- Assets/_Project/Sprites/UI/New Ui/Inst-eternal-funk.mp3
 Dependencies: []
